@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jacques DURAND
+=======
+JACQUES Durand
+>>>>>>> parent of 54d47ca... DURAND EN MAJUSCULE
